@@ -1,0 +1,9 @@
+Kaç kullanıcı bağlanmış bunu tut
+Ayrıca kullanıcıdan kaç mesaj gelmiş ve kaç cevap verilmiş bunu tut
+
+O kullanıcıy için kaçtane fonksiyon çalıştırılmış bunuda bul
+
+
+Bu değerleri toplamak için traveler adında bir obje oluştur
+
+Değerleri {sendedmessage} {recevidenmessage} {executedfunctions} {timestamp or just date} {UniqueID}
